@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+li {
+    list-style-type: circle;
+    font-size: 25px;
+   
+}
+
+li li {
+    list-style-type: square;
+    font-size: 20px;
+}
+
+ol {
+    list-style-type: decimal;
+    font-size: 20px;
+}
+
+
